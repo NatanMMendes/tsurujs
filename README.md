@@ -14,3 +14,5 @@ O Tsuru simboliza longevidade, saúde, felicidade, prosperidade e sorte. Por iss
 Muitas pessoas relatam que sentem muita paz ao ver esse passarinho. Além disso, sentem uma magia, algo inexplicável ao ver uma dobradura dele pendurada e balançando com o vento.
 
 Por isso, por essa sensação de bem estar e boa energia que ele transmite, ele está presente em festas e ocasiões especial, como citado acima.
+
+## Acesse e veja como fazer: http://natanmmendes.github.io/tsurujs
